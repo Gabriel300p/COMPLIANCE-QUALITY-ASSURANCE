@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1647945027884" transient="false">
+	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="org.eclipse.equinox.p2.core.feature" version="1.6.1300.v20220223-1131" url="features/org.eclipse.equinox.p2.core.feature_1.6.1300.v20220223-1131/">
+		</feature>
+		<feature id="org.eclipse.emf.common" version="2.25.0.v20220123-0838" url="features/org.eclipse.emf.common_2.25.0.v20220123-0838/">
+		</feature>
+		<feature id="com.archimatetool.editor.feature" version="4.9.3.202203221030" url="features/com.archimatetool.editor.feature_4.9.3.202203221030/">
+		</feature>
+		<feature id="org.eclipse.e4.rcp" version="4.23.0.v20220308-0630" url="features/org.eclipse.e4.rcp_4.23.0.v20220308-0630/">
+		</feature>
+		<feature id="org.eclipse.ecf.core.feature" version="1.6.1.v20211005-1944" url="features/org.eclipse.ecf.core.feature_1.6.1.v20211005-1944/">
+		</feature>
+		<feature id="org.eclipse.help" version="2.3.900.v20220308-0310" url="features/org.eclipse.help_2.3.900.v20220308-0310/" plugin-identifier="org.eclipse.help.base">
+		</feature>
+		<feature id="org.eclipse.ecf.core.ssl.feature" version="1.1.501.v20210409-2301" url="features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20210409-2301/">
+		</feature>
+		<feature id="com.archimatetool.eclipse.feature" version="4.9.3.202203221030" url="features/com.archimatetool.eclipse.feature_4.9.3.202203221030/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.httpclient5.feature" version="1.1.600.v20220215-0126" url="features/org.eclipse.ecf.filetransfer.httpclient5.feature_1.1.600.v20220215-0126/">
+		</feature>
+		<feature id="org.eclipse.emf.ecore" version="2.27.0.v20220123-0838" url="features/org.eclipse.emf.ecore_2.27.0.v20220123-0838/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.ssl.feature" version="1.1.401.v20210409-2301" url="features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.401.v20210409-2301/">
+		</feature>
+		<feature id="com.archimatetool.gef.feature" version="1.0.0.202203221030" url="features/com.archimatetool.gef.feature_1.0.0.202203221030/">
+		</feature>
+		<feature id="org.eclipse.rcp" version="4.23.0.v20220308-0722" url="features/org.eclipse.rcp_4.23.0.v20220308-0722/">
+		</feature>
+		<feature id="org.eclipse.equinox.core.feature" version="1.13.500.v20220215-2237" url="features/org.eclipse.equinox.core.feature_1.13.500.v20220215-2237/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.feature" version="3.14.1800.v20220215-0126" url="features/org.eclipse.ecf.filetransfer.feature_3.14.1800.v20220215-0126/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.extras.feature" version="1.4.1500.v20220223-1131" url="features/org.eclipse.equinox.p2.extras.feature_1.4.1500.v20220223-1131/">
+		</feature>
+	</site>
+</config>
